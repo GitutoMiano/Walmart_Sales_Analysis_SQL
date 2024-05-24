@@ -1,6 +1,6 @@
 # Walmart_Sales_Analysis_SQL
 This is a sales analysis project carried out using MySQL: 
-
+## Data Source: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting 
 # Sales Analysis Segments:
 ## Product Analysis
 1.	What are the unique products sold?
