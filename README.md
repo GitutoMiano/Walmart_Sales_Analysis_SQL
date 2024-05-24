@@ -3,6 +3,7 @@ This is a sales analysis project carried out using MySQL:
 
 # Sales Analysis Segments:
 ## Product Analysis
+1.	What are the unique products sold?
 2.	What are the 10 best-performing products?
 3.	What are the least (10) performing products?
 ## Sales Analysis
