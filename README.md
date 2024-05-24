@@ -3,15 +3,17 @@ This is a sales analysis project carried out using MySQL:
 #### Data Source: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting 
 # Sales Analysis Segments:
 ## Product Analysis
-1.	What are the unique products sold?
-2.	What are the 10 best-performing products?
-3.	What are the least (10) performing products?
+1.	Which cities are the branches located in?
+2.	What are the unique products sold?
+3.	What are the product sales? 
 ## Sales Analysis
 This analysis aims to answer the question of the sales trends of products. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modifications are needed to gain more sales.
 1.	What are the sales by city?
 2.	What are the sales by payment method?
 3.	What are the sales by branch?
-4.	When (date) are the sales at their pick, and at the lowest point?
+4.	When (day) are the sales at their pick, and at the lowest point?
+5.	What are the sales by time of day?
+6.	What are the sales by hour?
 
 ## Customer Analysis
 This analysis aims to uncover the different customer segments, purchase trends and the profitability of each customer segment.
